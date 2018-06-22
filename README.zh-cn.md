@@ -1,6 +1,6 @@
 ## Redis 源码
 
-源代码来自： https://github.com/antirez/redis，目前是 4.0.9 版本，并尽量保持同步。
+源代码来自： https://github.com/antirez/redis，目前是 4.0.10 版本，并尽量保持同步。
 
 ### 源码文件的作用简介
 
